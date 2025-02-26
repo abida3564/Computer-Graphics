@@ -1,0 +1,3 @@
+Computer Graphics lab :
+
+codeblocks,file,new,projects,GLUT project,next,project title,next,sources,main.cpp,code copy paste from cls room code
