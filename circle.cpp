@@ -10,7 +10,7 @@ void display(void)
 * (0.25, 0.25, 0.0) and (0.75, 0.75, 0.0)
 */
    // glPointSize(7);
-    glColor3f (0.0, 1.0, 0.0);
+    glColor3f (1.0, 1.0, 0.0);
     glBegin(GL_LINE_LOOP);
     double a=0,b=0,r=8,x,y;
     int theta;
